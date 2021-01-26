@@ -1,2 +1,2 @@
-# physalia_python_2021
+# Physalia Introduction to Python
 Lessons and data from the Physalia Introduction to Python course
