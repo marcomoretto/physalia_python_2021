@@ -1,0 +1,32 @@
+[
+    {
+        "id": "id1",
+        "value": 10,
+        "description": "first item"
+    },
+    {
+        "id": "id2",
+        "value": 21,
+        "description": "second item"
+    },
+    {
+        "id": "id3",
+        "value": 4,
+        "description": "third item"
+    },
+    {
+        "id": "id4",
+        "value": 65,
+        "description": "fourth item"
+    },
+    {
+        "id": "id5",
+        "value": 5,
+        "description": "fifth item"
+    },
+    {
+        "id": "id6",
+        "value": 16,
+        "description": "sixth item"
+    }
+]
